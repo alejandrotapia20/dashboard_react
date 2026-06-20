@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Reportes del proyecto (entregables, no van en el repositorio)
+Reporte_Proyecto02.md
+Reporte_Proyecto02.docx
+Reporte_Proyecto02.html
